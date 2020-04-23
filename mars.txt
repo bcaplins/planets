@@ -1,2 +1,4 @@
 Mars is red.
 Venis is blue.
+Pluto is cold.
+
